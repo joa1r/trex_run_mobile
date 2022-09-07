@@ -1,1 +1,2 @@
-# trex_run_mobile
+# C20_1-4
+Trex para thunkable
